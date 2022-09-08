@@ -32,3 +32,8 @@ https://github.com/nagabathula/C255-DataMIning/blob/main/Assignment2_TimeSeries1
 
 Time Series Forecasting - Univariate with Exogenous Variables
 https://github.com/nagabathula/C255-DataMIning/blob/main/Assignment2_TimeSeries201_v1.ipynb
+
+
+Gradio App - Regression Model 
+https://github.com/nagabathula/C255-DataMIning/blob/main/Assignment2_Gradio_Regrssion.ipynb
+
