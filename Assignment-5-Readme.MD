@@ -1,5 +1,5 @@
 
-LSH and Random Prohection Algorithms
+LSH and Random Projection Algorithms
 
 https://github.com/nagabathula/C255-DataMIning/blob/main/Assignment5_LSH_and_Random.ipynb
 
